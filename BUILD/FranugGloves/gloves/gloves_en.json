@@ -1,0 +1,268 @@
+{
+  "Gloves": {
+    "Broken Fang Gloves": {
+      "index": "4725",
+      "Jade": {
+        "index": "10085",
+      },
+      "Yellow-banded": {
+        "index": "10086",
+      },
+      "Unhinged": {
+        "index": "10088",
+      },
+      "Needle Point": {
+        "index": "10087",
+      }
+    },
+    "Hydra Gloves": {
+      "index": "5035",
+      "Emerald": {
+        "index": "10057",
+      },
+      "Mangrove": {
+        "index": "10058",
+      },
+      "Rattler": {
+        "index": "10059",
+      },
+      "Case Hardened": {
+        "index": "10060",
+      },
+      "Charred": {
+        "index": "10006",
+      },
+      "Snakebite": {
+        "index": "10007",
+      },
+      "Bronzed": {
+        "index": "10008",
+      },
+      "Guerrilla": {
+        "index": "10039",
+      }
+    },
+    "Bloodhound Gloves": {
+      "index": "5027",
+      "Emerald": {
+        "index": "10057",
+      },
+      "Mangrove": {
+        "index": "10058",
+      },
+      "Rattler": {
+        "index": "10059",
+      },
+      "Case Hardened": {
+        "index": "10060",
+      },
+      "Charred": {
+        "index": "10006",
+      },
+      "Snakebite": {
+        "index": "10007",
+      },
+      "Bronzed": {
+        "index": "10008",
+      },
+      "Guerrilla": {
+        "index": "10039",
+      }
+    },
+    "Sport Gloves": {
+      "index": "5030",
+      "Slingshot": {
+        "index": "10073",       
+      },
+      "Big Game": {
+        "index": "10074",   
+      },
+      "Scarlet Shamagh": {
+        "index": "10075",
+      },
+      "Nocts": {
+        "index": "10076",
+      },
+      "Amphibious": {
+        "index": "10045",
+      },
+      "Bronze Morph": {
+        "index": "10046",
+      },
+      "Omega": {
+        "index": "10047",
+      },
+      "Vice": {
+        "index": "10048",
+      },
+      "Hedge Maze": {
+        "index": "10038",
+      },
+      "Pandora's Box": {
+        "index": "10037",
+      },
+      "Superconductor": {
+        "index": "10018",
+      },
+      "Arid": {
+        "index": "10019",
+      }
+    },
+    "Hand Wraps": {
+      "index": "5032",
+      "CAUTION!": {
+        "index": "10084",  
+      },
+      "Giraffe": {
+        "index": "10082",        
+      },
+      "Desert Shamagh": {
+        "index": "10081",        
+      },
+      "Constrictor": {
+        "index": "10083",        
+      },
+      "Cobalt Skulls": {
+        "index": "10053",        
+      },
+      "Overprint": {
+        "index": "10054",       
+      },
+      "Duct Tape": {
+        "index": "10055",
+      },
+      "Arboreal": {
+        "index": "10056",
+      },
+      "Leather": {
+        "index": "10009",
+      },
+      "Spruce DDPAT": {
+        "index": "10010",
+      },
+      "Slaughter": {
+        "index": "10021",
+      },
+      "Badlands": {
+        "index": "10036",
+      }
+    },
+    "Driver Gloves": {
+      "index": "5031",
+      "Snow Leopard": {
+        "index": "10070",
+      },
+      "Rezan the Red": {
+        "index": "10069",
+      },
+      "Black Tie": {
+        "index": "10072",
+      },
+      "Queen Jaguar": {
+        "index": "10071",
+      },
+      "King Snake": {
+        "index": "10041",
+      },
+      "Imperial Plaid": {
+        "index": "10042",
+      },
+      "Overtake": {
+        "index": "10043",
+      },
+      "Racing Green": {
+        "index": "10044",
+      },
+      "Lunar Weave": {
+        "index": "10013",
+      },
+      "Convoy": {
+        "index": "10015",
+      },
+      "Crimson Weave": {
+        "index": "10016",
+      },
+      "Diamondback": {
+        "index": "10040",
+      }
+    },
+    "Specialist Gloves": {
+      "index": "5034",
+      "Marble Fade": {
+        "index": "10065",
+      },
+      "Lt. Commander": {
+        "index": "10066",
+      },
+      "Tiger Strike": {
+        "index": "10067",
+      },
+      "Field Agent": {
+        "index": "10068",
+      },
+      "Crimson Web": {
+        "index": "10061",
+      },
+      "Buckshot": {
+        "index": "10062",
+      },
+      "Fade": {
+        "index": "10063",
+      },
+      "Mogul": {
+        "index": "10064",
+      },
+      "Forest DDPAT": {
+        "index": "10030",
+      },
+      "Crimson Kimono": {
+        "index": "10033",
+      },
+      "Emerald Web": {
+        "index": "10034",
+      },
+      "Foundation": {
+        "index": "10035",
+      }
+    },
+    "Moto Gloves": {
+      "index": "5033",
+      "Blood Pressure": {
+        "index": "10079",
+      },
+      "Smoke Out": {
+        "index": "10078",
+      },
+      "Finish Line": {
+        "index": "10077",
+      },
+      "3rd Commando Company": {
+        "index": "10080",
+      },
+      "POW!": {
+        "index": "10049",
+      },
+      "Turtle": {
+        "index": "10050",
+      },
+      "Transport": {
+        "index": "10051",
+      },
+      "Polygon": {
+        "index": "10052",
+      },
+      "Eclipse": {
+        "index": "10024",
+      },
+      "Boom!": {
+        "index": "10027",
+      },
+      "Spearmint": {
+        "index": "10026",
+      },
+      "Cool Mint": {
+        "index": "10028",
+      }
+    }
+  }
+}
