@@ -1,4 +1,4 @@
-## Cola-CS2-Gloves
+## CS2-FranugGloves
 
 Plugin for choose gloves with !gloves
 
